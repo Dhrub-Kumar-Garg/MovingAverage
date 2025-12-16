@@ -21,6 +21,18 @@ The app tests a Moving Average Crossover strategy on NIFTY 50 and Bank Nifty, in
 
 ## Results Snapshot (NIFTY 50)
 
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.jpg)
+
+### Result 1
+![Result 1 Screenshot](screenshots/res1.jpg)
+
+### Result 2
+![Result 2 Screenshot](screenshots/res 2.jpg)
+
+### Result 3
+![Result 3 Screenshot](screenshots/res 3.jpg)
+<br>
 The strategy slightly outperforms Buy & Hold while maintaining better risk control.
 
 ## Features
